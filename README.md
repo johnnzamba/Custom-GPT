@@ -1,5 +1,5 @@
 # CUSTOM GPT
-###### Updated: 02.06.2024 modules/endpoints
+###### Updated: 10.07.2024 modules/endpoints
 
 ![Screenshot](chatgpt.png)
 
@@ -37,8 +37,8 @@
 ## Screenshots
 ![Screenshot](Screensh.png)
 
-### Thanks
-**"Thank you! Your support is appreciated, and I would be grateful if you could share this project with others,  giving a :star: to my projects, or  
+### Special Thanks
+**"I personally extend my sincere gratitude to you! Your support is appreciated, and I would be grateful if you could share this project with others, :star: this or any other, or  
 [Reach out to me](mailto:john.nzambah@gmail.com). Don't hesistate to reach back for any clarification!"**
 
 ### Copyright
