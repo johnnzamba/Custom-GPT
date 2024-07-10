@@ -44,7 +44,7 @@
 ### Copyright
 - Masaasoft
 - [Star on Github](https://github.com/johnnzamba)
-- [Developer Site](https://volkansah.github.io)
+- [Developer Site](http://masaasoft.com/gpt/)
 
 
 ### License
