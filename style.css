@@ -39,7 +39,7 @@ font-weight: normal;
 display: flex;
 align-items: center;
 padding: 10px;
-background-color: #f0f0f0;
+background-color: #0a0202;
 border-top: 1px solid #e0e0e0;
 }
 
@@ -63,4 +63,23 @@ border-radius: 3px;
 
 .chat-submit:hover {
 background-color: #0056b3;
+}
+
+#newsletter-message {
+    margin-top: 10px;
+}
+
+.loading-spinner {
+    border: 4px solid rgba(0, 0, 0, 0.1);
+    border-left-color: #000;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    animation: spin 1s linear infinite;
+    display: inline-block;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }
